@@ -1,1 +1,11 @@
-/* add all items from grading group 3 and 4. Search for items in group 5 that refer to css f.e. z index */ 
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.image{
+    margin-left: -23px;
+    width: 5%;
+}
