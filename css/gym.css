@@ -10,7 +10,7 @@ body{
 .image{
     margin-left: -23px;
     width: 5%;
-    /* padding-bottom: 70px; */
+
 }
 
 
@@ -93,6 +93,11 @@ p{
     display: flex;
     
 }
+.one a{
+color: white;
+text-decoration: none;
+
+}
 .one{
     padding: 30px;
     border-radius: 50%;
@@ -100,6 +105,10 @@ p{
     font-size: 25px;
     font-weight: 400;
   background-color:rgba(94, 171, 227, 1);
+}
+.two a{
+    color: white;
+text-decoration: none;
 }
 .two{
     background-color: rgba(94, 171, 227, 1);
@@ -128,7 +137,11 @@ p{
     display: flex;
     
 }
+.one1 a{
+    color: white;
+    text-decoration: none;
 
+}
 .one1{
     padding: 30px;
     border-radius: 50%;
@@ -136,6 +149,11 @@ p{
     font-size: 25px;
     font-weight: 400;
   background-color:rgba(94, 171, 227, 1);
+}
+.two2 a{
+
+    color: white;
+text-decoration: none;
 }
 .two2{
     background-color:rgba(94, 171, 227, 1);
@@ -151,6 +169,12 @@ p{
     margin-top: 70px;
     margin-left: 40rem;
     
+}
+.three a{
+
+    color: black;
+text-decoration: none;
+
 }
 .three{
     padding: 30px;
