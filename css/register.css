@@ -70,42 +70,93 @@ body{
     color: blue;
 }
 
-.sec1{
-    margin-top: -16rem;
+.name{
+    color: white;
+    margin-right: 10px;
 }
-.input{
-    background-color: white;
-    padding: 20px;
-    width: 70.9%;
+.surname{
+    color: white;
+    margin-left: 40px;
+}
+.address{
+    color: white;
+}
+.phone{
+    color: white;
+}
+.post{
+    color: white;
+}
+
+.add{
     margin-top: 3rem;
-    margin-left:10rem;
 }
-.sec1 img{
-     margin-left: 10rem; 
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.ph{
+    margin-top: 3rem;
+}
+.post{
+    margin-top: 2rem;
+}
+.city{
+    margin-top: 2rem;
+}
+.num{
+    margin-top: 2rem;
 }
 
-.text{
+.gym{
+    color: white;
+    margin-right: 1rem;
+}
+.football{
+    color: white;
+    margin-right: 1rem;
+}
+.Cross-Fit{
+    color: white;
+    margin-right: 1rem;
+}
+.Kick-Boxing{
+    color: white;
+    margin-right: 1rem;
+}
+.Track{
+    color: white;
+    margin-right: 1rem;
+}
+
+.form{
+    margin-left: 15rem;
+    margin-top: -15rem;
+}
+
+.flow{
+    padding-left: 0rem;
+    justify-content: space-between;
+}
+.sec2{
+    padding-left: 10rem;
+    margin-top: 8rem;
+}
+.sec2 p{
+    color: white;
+    margin-bottom: 1rem;
+}
+
+
+.last{
+    margin-top: 70px;
+    margin-left: 40rem;
     
-    margin-top: 5rem;
-    text-align: center;
-    margin-bottom: 5rem;
+}
+.three{
+    padding: 30px;
+    font-weight: bold;
+    font-size: larger;
+    color: black;
+    background-color: rgba(255, 228, 94, 0.99);
 }
 
-section h1{
-    color: white;
-}
-
-.sec3 img{
-     margin-left: 90px;
-     margin-bottom: 20px;
-}
-.sec3 p{
-    margin-left: 20px;
-    color: white;
-}
 
 footer{
     
@@ -139,9 +190,6 @@ footer ul li{
 .c, .p, .r{
     font-weight: bold;
 }
-
-.fa-instagram{
+.icon i{
     color: white;
-    background-color: red;
-    font-size: 30px;
 }

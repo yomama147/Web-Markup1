@@ -70,42 +70,98 @@ body{
     color: blue;
 }
 
-.sec1{
-    margin-top: -16rem;
-}
-.input{
-    background-color: white;
-    padding: 20px;
-    width: 70.9%;
-    margin-top: 3rem;
-    margin-left:10rem;
-}
-.sec1 img{
-     margin-left: 10rem; 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .text{
+    margin-left: 150px;
+    margin-top: -11rem;
+}
+
+ .this{
+    display: flex;
+} 
+
+
+.text h2{
+    margin-bottom: 20px;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.btn{
+    display: flex;
     
-    margin-top: 5rem;
-    text-align: center;
-    margin-bottom: 5rem;
+}
+.one{
+    padding: 30px;
+    border-radius: 50%;
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+  background-color:rgba(94, 171, 227, 1);
+}
+.two{
+    background-color: rgba(94, 171, 227, 1);
+    padding: 30px;
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+    border-radius: 50%;
+    margin-left: 50rem;
 }
 
-section h1{
-    color: white;
+
+.text2{
+    margin-left: 150px;
+    margin-top: -11rem;
 }
 
-.sec3 img{
-     margin-left: 90px;
-     margin-bottom: 20px;
-}
-.sec3 p{
-    margin-left: 20px;
+ .text2 h2{
     color: white;
 }
+.text2 img{
+    margin-top: 22rem;
+}
+
+.btn2{
+    display: flex;
+    
+}
+
+.one1{
+    padding: 30px;
+    border-radius: 50%;
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+  background-color:rgba(94, 171, 227, 1);
+}
+.two2{
+    background-color:rgba(94, 171, 227, 1);
+    padding: 30px;
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+    border-radius: 50%;
+    margin-left: 50rem;
+}
+
+.last{
+    margin-top: 70px;
+    margin-left: 40rem;
+    
+}
+.three{
+    padding: 30px;
+    font-weight: bold;
+    font-size: larger;
+    color: black;
+    background-color: rgba(255, 228, 94, 0.99);
+}
+
+
+
 
 footer{
     
@@ -139,9 +195,6 @@ footer ul li{
 .c, .p, .r{
     font-weight: bold;
 }
-
-.fa-instagram{
+.icon i{
     color: white;
-    background-color: red;
-    font-size: 30px;
 }

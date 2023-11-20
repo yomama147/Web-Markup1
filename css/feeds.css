@@ -70,42 +70,56 @@ body{
     color: blue;
 }
 
-.sec1{
-    margin-top: -16rem;
-}
-.input{
-    background-color: white;
-    padding: 20px;
-    width: 70.9%;
-    margin-top: 3rem;
-    margin-left:10rem;
-}
-.sec1 img{
-     margin-left: 10rem; 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
 .text{
+    margin-left: 150px;
+    margin-top: -11rem;
+}
+
+.this{
+    display: flex;
+}
+
+
+
+.right h3, p{
+   color: white;
+}
+
+
+.text2{
+    margin-left: 150px;
     
-    margin-top: 5rem;
-    text-align: center;
-    margin-bottom: 5rem;
 }
-
-section h1{
+.text img{
+    margin-top: 40px;
+}
+.text h3{
     color: white;
 }
 
-.sec3 img{
-     margin-left: 90px;
-     margin-bottom: 20px;
+.text2 img{
+    margin-top: 40px;
 }
-.sec3 p{
-    margin-left: 20px;
+.ded{
+    margin-top: 40px;
+}
+ .text2 h3{
     color: white;
 }
+
+.left{
+    padding: 10px;
+    margin-left: 6rem;
+    margin-top: -5rem;
+}
+
+.right{
+    margin-left: 6rem;
+    margin-top: -4rem;
+}
+
+
 
 footer{
     
@@ -139,9 +153,6 @@ footer ul li{
 .c, .p, .r{
     font-weight: bold;
 }
-
-.fa-instagram{
+.icon i{
     color: white;
-    background-color: red;
-    font-size: 30px;
 }
